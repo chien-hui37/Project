@@ -38,6 +38,7 @@ function TemplateNews() {
   const lastIndex = curPage * newsNum;
   const firstIndex = lastIndex - newsNum;
   const currentNews = newsData.slice(firstIndex, lastIndex)
+  var newsconcent = ""
 
   //show single news
   const [singleNews, setSingleNews] = useState({})
@@ -46,6 +47,7 @@ function TemplateNews() {
   const showNews = (news) => {
     setSingleNews(news)
     setIsShow(true)
+
   }
 
   return (
@@ -92,10 +94,11 @@ function TemplateNews() {
                                 {val.date}
                               </div>
                             </div>
-                          </>
+                            </>
                         )
                       })
                     }
+                    {newsconcent}
                   </div>
                 </div>
               </div>
