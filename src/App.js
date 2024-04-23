@@ -40,10 +40,6 @@ import {
   CheckOrder,
 } from "./pages/appIndex";
 
-//範例用
-import Template from "./pages/Template";
-// const baseURL = "http://18.182.1.131:3000/news";
-
 function App() {
   return (
     <div className="App">
@@ -93,9 +89,6 @@ function App() {
           <Route path="/SubsidySearch" element={<SubsidySearch />} />
           <Route path="/SubsidySearchCFM" element={<SubsidySearchCFM />} />
           <Route path="/SubsidyResult" element={<SubsidyResult />} />
-
-          {/* 範例用 */}
-          <Route path="/Template" element={<Template />} />
         </Routes>
       </Router>
     </div>
