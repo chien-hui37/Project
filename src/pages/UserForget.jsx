@@ -15,8 +15,6 @@ const Service = () => {
         <br/>
         <ForegetPassword/>
   
-        {/* 底下用8個換行空出雨footer距離 */}
-        <br />
         <Footersecond />
         <BackToTopBtn />
       </React.Fragment>

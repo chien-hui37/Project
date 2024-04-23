@@ -111,9 +111,6 @@ function TemplateNews() {
           </div>
         </div>
       }
-      <br />
-      <br />
-      <br />
       {isShow &&
         <SingleNews newsData={singleNews} />
       }
