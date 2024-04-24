@@ -59,8 +59,6 @@ function TemplateNews() {
         <div className="container">
           <div className="row">
             <SideBar title={sidebarTitle} />
-
-            {/* 這裡放你的主內容 */}
             <div className='col-md-12 col-lg-9 col-xl-9'>
               <ul className="nav nav-tabs" id="myTab" role="tablist">
                 <li>
