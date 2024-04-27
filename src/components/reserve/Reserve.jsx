@@ -39,7 +39,7 @@ function Reserve() {
                   {...register("applyname", {
                     required: "* 此欄位必填",
                     pattern: {
-                      value: /^[\u4E00-\u9FA5]+$/,
+                      value: /^[\u4E00-\u9FA5]$/,
                       message: "請輸入中文姓名"
                     }
                   })} defaultValue={formData.applyname} />
@@ -72,7 +72,7 @@ function Reserve() {
                 <input type="text" id="relationship" name="relationship" style={{ width: '135px' }} {...register("relationship", {
                   required: "* 此欄位必填",
                   pattern: {
-                    value: /^[\u4E00-\u9FA5]+$/,
+                    value: /^[\u4E00-\u9FA5]$/,
                     message: "請輸入正確格式"
                   }
                 })} defaultValue={formData.relationship} />
