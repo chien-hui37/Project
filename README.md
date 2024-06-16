@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# GoodCare Web 好照顧網站
+<img width="1439" alt="image" src="https://github.com/chien-hui37/GoodCare/assets/155596319/8934f703-3524-459e-9653-8a9c2c10ec95">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## **概述**
+### 技術
+- **Frontend:** React.js
+  - useContext, useForm, useEffect  
+- **Backend:** Node.js
+  - JWT Token
+- **API:** Axios
+- **Database:** AWS RDS (MySQL)
+- Other: RWD Design, Bootstrap5
 
-## Available Scripts
+### 目的
+- **一站式服務**
+- **用戶友好設計**
+- **專業、可靠的訊息**
 
-In the project directory, you can run:
+### 貢獻
+- **預約照服員**
+- **長照據點地圖**
+<br>
 
-### `npm start`
+## **特色**
+<img width="1439" alt="image" src="https://github.com/chien-hui37/GoodCare/assets/155596319/adf7a024-6f1c-465c-93ff-a774bcaa535d">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **影音**
+<img width="1439" alt="image" src="https://github.com/chien-hui37/GoodCare/assets/155596319/6d3a8eb0-5791-44df-a9de-e60ab229ae64">
 
-### `npm test`
+- **補助資訊**
+<img width="1439" alt="image" src="https://github.com/chien-hui37/GoodCare/assets/155596319/27e73dfa-9dc5-435d-af80-71ca64b3cadf">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **據點地圖**
+<img width="1439" alt="image" src="https://github.com/chien-hui37/GoodCare/assets/155596319/bfc33cda-8b8c-4ed2-bad9-bba4eeda1106">
 
-### `npm run build`
+- **據點查詢**
+<img width="1439" alt="image" src="https://github.com/chien-hui37/GoodCare/assets/155596319/2da8d373-3199-4fe4-9ab5-f84bf690d7b2">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **醫療商品**
+<img width="1439" alt="image" src="https://github.com/chien-hui37/GoodCare/assets/155596319/59c540b2-c9fd-4d46-8539-263ec9c03e23">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **預約照服員**
+<img width="1439" alt="image" src="https://github.com/chien-hui37/GoodCare/assets/155596319/25739958-3324-49a9-b1b6-65abd1878a05">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **會員**
+<img width="1439" alt="image" src="https://github.com/chien-hui37/GoodCare/assets/155596319/252e978e-b5b8-438a-9015-83cd14e78767">
 
-### `npm run eject`
+- **購物車**
+<img width="1439" alt="image" src="https://github.com/chien-hui37/GoodCare/assets/155596319/d369fdf9-5e90-414b-83b2-7f4d499ab20c">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **常見問題**
+<img width="1439" alt="image" src="https://github.com/chien-hui37/GoodCare/assets/155596319/14dd50eb-e7fd-4812-a52d-558a59728cf0">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
